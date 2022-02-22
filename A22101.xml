@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation concerning the bringing in of whale-finnes into his Maiesties dominions, &amp;c.</title>
+            <title>Proclamations. 1614-09-26</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22101</idno>
+            <idno type="STC">STC 8505</idno>
+            <idno type="STC">ESTC S100822</idno>
+            <idno type="EEBO-CITATION">99836649</idno>
+            <idno type="PROQUEST">99836649</idno>
+            <idno type="VID">933</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 933)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 1686:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation concerning the bringing in of whale-finnes into his Maiesties dominions, &amp;c.</title>
+                  <title>Proclamations. 1614-09-26</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1614.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Wansted the eleuenth day of September, in the twelfth yeere of our raigne ..</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Muscovy Company --  Legal status, laws, etc.</term>
+               <term>Exclusive licenses --  Great Britain --  Early works to 1800.</term>
+               <term>Whalebone --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:933:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> A Proclamation concerning the bringing in of Whale-finnes into his Maiesties Dominions, &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>S Wee conceiue, it cannot be conſtrued by any Our doings or procee</hi>
+               <g ref="char:EOLhyphen"/>dings, that Wee are caried with any ambitious or vniuſt appetite, to couet that which appertaineth to others: So it ſhalbe alwayes Our deſire and reſolution, to nouriſh and maintaine the happy eſtate of Our louing Subiects, and the ho<g ref="char:EOLhyphen"/>nour of Our Kingdomes; not onely in the ſame degree, in the which we haue re<g ref="char:EOLhyphen"/>ceiued them; but likewiſe with that increaſe and aduancement, whereof the pro<g ref="char:EOLhyphen"/>uidence of Almighty God by iuſt occaſions ſhal put meanes and opportunities into Our hands; and in nothing more (next vnto the true worſhip of God, and the adminiſtration of Iuſtice) then in the main<g ref="char:EOLhyphen"/>tenance and increaſe of Nauigation, wherein Our kingdomes both by ſcituation, ſtrength of ſhipping, ſkill of Narriners, valew of Commanders at Sea, and many honourable diſcoueries and exploits, haue for long time, and more and more of late time flouriſhed. And whereas Our Company of Mer<g ref="char:EOLhyphen"/>chants for the diſcouery of new Trades, commonly called the <hi>Muſcouia Company,</hi> haue with their great coſts and charges, of late yceres diſcouered a Land, which they call by the name of <hi>King Iames</hi> his <hi>New<g ref="char:EOLhyphen"/>land,</hi> to the increaſe of Nauigation and Mariners, and haue further by their care and induſtry entred into a trade of fiſhing for the <hi>Whale,</hi> and procured <hi>Biſcainers,</hi> ſkilfull in ſtriking the <hi>Whale,</hi> teach and In<g ref="char:EOLhyphen"/>ſtruct the English Nation therein: And whereas a principall part of the beuefit of the <hi>Whale-fiſhing</hi> con<g ref="char:EOLhyphen"/>ſiſteth in the commoditie of <hi>Whale-finnes,</hi> imported into Our Kingdomes; And that experience already ſheweth, that Our owne ſubiects in their returne from that <hi>Fiſhing,</hi> are able to furniſh and ſerue Our Kingdomes with ſufficient quantity for the vſe of Our louing ſubiects: it being alſo a matter of delira<g ref="char:EOLhyphen"/>cie, &amp; rather to be conſidered as it may concerne Nauigation, then in it ſelfe: We haue therfore thought fit for the better encouragement of the ſaid Company, and other Our Subiects, in ſeruices of like na<g ref="char:EOLhyphen"/>ture, to Prohibite all Aliens and ſtrangers, and alſo Our owne ſubiects, (except the ſaith <hi>Muſcouia</hi> Mer<g ref="char:EOLhyphen"/>chanks, &amp; that in their ioynt ſtocke) to bring hereafter into any Our Kingdomes the ſaid commodity.</p>
+            <p>Wherefore we do by theſe preſents, ſtraitly and expreſly forbid and prohibite, all Aliens and ſtran<g ref="char:EOLhyphen"/>gers whatſoeuer, and alſo all Our owne Subiects (others then the ſaid <hi>Muſcouia</hi> Merchants, and that in their ioynt ſtocke) to bring into any Our kingdomes, and Dominions any <hi>Whale-finnes,</hi> vpon paine of Confiſcation of the ſame, and of Our high indignation and diſpleaſure, and of ſuch further puniſh<g ref="char:EOLhyphen"/>ment, as ſhalbe meet to be inflicted vpon the offenders for their contempt in that behalfe: And We do further hereby charge and require all Our Cuſtomers, Comptrollers, Searchers &amp; other Officers, and alſo the Farmors of Our Cuſtomes, and their miniſters, carefully to attend euery one in their ſe<g ref="char:EOLhyphen"/>uerall dueties, the execution of this Our Royall Proclamation, and in no wiſe to permit or suffer any <hi>Whale-finnes,</hi> either directly or indirectly, openly or priuately, to be brought into the Ports, or other pla<g ref="char:EOLhyphen"/>ces of any of Our kingdomes: And in caſe any be brought in, the ſame to ſeaze to Our vſe, and by all other meanes to finde out, and informe of all offences tending to the breach of this Our Royall Pro<g ref="char:EOLhyphen"/>clamation.</p>
+            <closer>
+               <dateline>Giuen at Wanſted <date>the eleuenth day of September, in the twelfth yeere of Our Raigne of Great Britaine, France, and Ireland. 1614.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by <hi>Robert Barker,</hi> Printer to the Kings moſt Excellent Maieſtie ANNO DOM. 1614</p>
+         </div>
+      </back>
+   </text>
+</TEI>
